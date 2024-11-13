@@ -1,3 +1,5 @@
 # 모든 API 키 파일은 무시
 *.key
 
+# .DS_Store 무시
+.DS_Store
